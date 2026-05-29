@@ -8,7 +8,7 @@ A personal portfolio website built with **HTML, CSS, and JavaScript**, showcasin
 
 | Portfolio | Skyline Airways |
 |-----------|----------------|
-| ![Portfolio](images/vsservice.png) | ![Skyline Airways](images/skyline.png) |
+| ![Portfolio](/html/iamge/vsservice.png) | ![Skyline Airways](/html/iamge/skyline.png) |
 
 ---
 
