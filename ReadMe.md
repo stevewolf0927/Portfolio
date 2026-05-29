@@ -8,7 +8,7 @@ A personal portfolio website built with **HTML, CSS, and JavaScript**, showcasin
 
 | VSService | Skyline Airways |
 |-----------|----------------|
-| ![VSService](images/vsservice.png) | ![Skyline Airways](images/skyline.png) |
+| ![VSService](vsservice.png) | ![Skyline Airways](skyline.png) |
 
 ---
 
