@@ -43,17 +43,18 @@ A personal portfolio website built with **HTML, CSS, and JavaScript**, showcasin
 
 ```
 portfolio/
-├── index.html          # Main HTML file
-├── css/
-│   └── style.css       # All styles
-├── js/
-│   └── script.js       # All scripts
-└── images/
-|   ├── skyline.png     # Skyline Airways project screenshot
-|    ├── vsservice.png   # VSservice project screenshot
-|    └── icons/
-|        └── gmail.svg   # Gmail icon
-|__Readme.md
+|_____HTML
+        ├── index.html          # Main HTML file
+        ├── css/
+        │   └── style.css       # All styles
+        ├── js/
+        │   └── script.js       # All scripts
+        └── images/
+        |   ├── skyline.png     # Skyline Airways project screenshot
+        |    ├── vsservice.png   # VSservice project screenshot
+        |    └── icons/
+        |        └── gmail.svg   # Gmail icon
+        |__Readme.md
 ```
 
 ---
